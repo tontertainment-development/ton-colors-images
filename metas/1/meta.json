@@ -1,0 +1,30 @@
+{
+    "name": "#FF5733: why",
+    "description": "Ok",
+    "image": "https://raw.githubusercontent.com/tontertainment-development/ton-colors-images/refs/heads/main/colors/FF5733.png",
+    "attributes": [
+        {
+            "trait_type": "HEX",
+            "value": "#FF5733"
+        },
+        {
+            "trait_type": "RGB",
+            "value": "255 87 51"
+        },
+        {
+            "trait_type": "Name",
+            "value": "why"
+        },
+        {
+            "trait_type": "Author",
+            "value": "nobody???"
+        }
+    ],
+    "buttons": [
+        {
+            "label": "Mint your own color",
+            "uri": "https://t.me/ton_colors_bot"
+        }
+    ],
+    "marketplace": "testnet.getgems.io"
+}
