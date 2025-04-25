@@ -1,0 +1,22 @@
+{
+    "name": "#EB404B",
+    "description": "Minted NFT Color.",
+    "image": "https://raw.githubusercontent.com/tontertainment-development/ton-colors-images/refs/heads/main/colors/EB404B.png",
+    "attributes": [
+        {
+            "trait_type": "HEX",
+            "value": "#EB404B"
+        },
+        {
+            "trait_type": "RGB",
+            "value": "235 64 75"
+        }
+    ],
+    "buttons": [
+        {
+            "label": "Mint your own color",
+            "uri": "https://t.me/ton_colors_bot"
+        }
+    ],
+    "marketplace": "testnet.getgems.io"
+}
