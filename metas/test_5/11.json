@@ -1,0 +1,26 @@
+{
+    "name": "#204056",
+    "description": "Minted NFT Color.",
+    "image": "https://raw.githubusercontent.com/tontertainment-development/ton-colors-images/refs/heads/main/colors/204056.png",
+    "attributes": [
+        {
+            "trait_type": "HEX",
+            "value": "#204056"
+        },
+        {
+            "trait_type": "RGB",
+            "value": "32 64 86"
+        },
+        {
+            "trait_type": "Author",
+            "value": "youtya, ID: 1325937002"
+        }
+    ],
+    "buttons": [
+        {
+            "label": "Mint your own color",
+            "uri": "https://t.me/ton_colors_bot"
+        }
+    ],
+    "marketplace": "testnet.getgems.io"
+}
