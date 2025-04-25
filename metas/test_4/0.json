@@ -1,0 +1,30 @@
+{
+    "name": "#1A2B3C: TEST",
+    "description": "Minted NFT Color.",
+    "image": "https://raw.githubusercontent.com/tontertainment-development/ton-colors-images/refs/heads/main/colors/1A2B3C.png",
+    "attributes": [
+        {
+            "trait_type": "HEX",
+            "value": "#1A2B3C"
+        },
+        {
+            "trait_type": "RGB",
+            "value": "26 43 60"
+        },
+        {
+            "trait_type": "Name",
+            "value": "TEST"
+        },
+        {
+            "trait_type": "Author",
+            "value": "Testy!"
+        }
+    ],
+    "buttons": [
+        {
+            "label": "Mint your own color",
+            "uri": "https://t.me/ton_colors_bot"
+        }
+    ],
+    "marketplace": "testnet.getgems.io"
+}
