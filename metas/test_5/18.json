@@ -1,0 +1,22 @@
+{
+    "name": "#35353F",
+    "description": "Minted NFT Color.",
+    "image": "https://raw.githubusercontent.com/tontertainment-development/ton-colors-images/refs/heads/main/colors/35353F.png",
+    "attributes": [
+        {
+            "trait_type": "HEX",
+            "value": "#35353F"
+        },
+        {
+            "trait_type": "RGB",
+            "value": "53 53 63"
+        }
+    ],
+    "buttons": [
+        {
+            "label": "Mint your own color",
+            "uri": "https://t.me/ton_colors_bot"
+        }
+    ],
+    "marketplace": "testnet.getgems.io"
+}
