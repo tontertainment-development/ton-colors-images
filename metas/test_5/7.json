@@ -1,0 +1,30 @@
+{
+    "name": "#509624: pepe the frog p.1",
+    "description": "Minted NFT Color.",
+    "image": "https://raw.githubusercontent.com/tontertainment-development/ton-colors-images/refs/heads/main/colors/509624.png",
+    "attributes": [
+        {
+            "trait_type": "HEX",
+            "value": "#509624"
+        },
+        {
+            "trait_type": "RGB",
+            "value": "80 150 36"
+        },
+        {
+            "trait_type": "Name",
+            "value": "pepe the frog p.1"
+        },
+        {
+            "trait_type": "Author",
+            "value": "Kekock"
+        }
+    ],
+    "buttons": [
+        {
+            "label": "Mint your own color",
+            "uri": "https://t.me/ton_colors_bot"
+        }
+    ],
+    "marketplace": "testnet.getgems.io"
+}
