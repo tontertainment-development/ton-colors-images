@@ -1,0 +1,22 @@
+{
+    "name": "#4D3939",
+    "description": "Minted NFT Color.",
+    "image": "https://raw.githubusercontent.com/tontertainment-development/ton-colors-images/refs/heads/main/colors/4D3939.png",
+    "attributes": [
+        {
+            "trait_type": "HEX",
+            "value": "#4D3939"
+        },
+        {
+            "trait_type": "RGB",
+            "value": "77 57 57"
+        }
+    ],
+    "buttons": [
+        {
+            "label": "Mint your own color",
+            "uri": "https://t.me/ton_colors_bot"
+        }
+    ],
+    "marketplace": "testnet.getgems.io"
+}
