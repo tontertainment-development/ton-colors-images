@@ -1,0 +1,30 @@
+{
+    "name": "#FA783C: \u041a\u0440\u0443\u0442\u043e\u0439 \u043e\u0440\u0430\u043d\u0436\u0435\u0432\u044b\u0439",
+    "description": "Minted NFT Color.",
+    "image": "https://raw.githubusercontent.com/tontertainment-development/ton-colors-images/refs/heads/main/colors/FA783C.png",
+    "attributes": [
+        {
+            "trait_type": "HEX",
+            "value": "#FA783C"
+        },
+        {
+            "trait_type": "RGB",
+            "value": "250 120 60"
+        },
+        {
+            "trait_type": "Name",
+            "value": "\u041a\u0440\u0443\u0442\u043e\u0439 \u043e\u0440\u0430\u043d\u0436\u0435\u0432\u044b\u0439"
+        },
+        {
+            "trait_type": "Author",
+            "value": "youtya"
+        }
+    ],
+    "buttons": [
+        {
+            "label": "Mint your own color",
+            "uri": "https://t.me/ton_colors_bot"
+        }
+    ],
+    "marketplace": "testnet.getgems.io"
+}
