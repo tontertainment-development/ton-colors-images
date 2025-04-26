@@ -1,0 +1,30 @@
+{
+    "name": "#27CDAA: Light wave",
+    "description": "Minted NFT Color.",
+    "image": "https://raw.githubusercontent.com/tontertainment-development/ton-colors-images/refs/heads/main/colors/27CDAA.png",
+    "attributes": [
+        {
+            "trait_type": "HEX",
+            "value": "#27CDAA"
+        },
+        {
+            "trait_type": "RGB",
+            "value": "39 205 170"
+        },
+        {
+            "trait_type": "Name",
+            "value": "Light wave"
+        },
+        {
+            "trait_type": "Author",
+            "value": "youtya (@youtyay), ID: 1325937002"
+        }
+    ],
+    "buttons": [
+        {
+            "label": "Mint your own color",
+            "uri": "https://t.me/ton_colors_bot"
+        }
+    ],
+    "marketplace": "testnet.getgems.io"
+}
