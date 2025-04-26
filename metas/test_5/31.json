@@ -1,0 +1,30 @@
+{
+    "name": "#193460: fdgsdg",
+    "description": "Minted NFT Color.",
+    "image": "https://raw.githubusercontent.com/tontertainment-development/ton-colors-images/refs/heads/main/colors/193460.png",
+    "attributes": [
+        {
+            "trait_type": "HEX",
+            "value": "#193460"
+        },
+        {
+            "trait_type": "RGB",
+            "value": "25 52 96"
+        },
+        {
+            "trait_type": "Name",
+            "value": "fdgsdg"
+        },
+        {
+            "trait_type": "Author",
+            "value": "youtya (@youtyay), ID: 1325937002"
+        }
+    ],
+    "buttons": [
+        {
+            "label": "Mint your own color",
+            "uri": "https://t.me/ton_colors_bot"
+        }
+    ],
+    "marketplace": "testnet.getgems.io"
+}
