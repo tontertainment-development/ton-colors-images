@@ -1,0 +1,30 @@
+{
+    "name": "#961CAA: \u0441\u0443\u043a\u0430 \u0441\u0443\u043a\u0430 \u0441\u0443\u043a\u0430 \u0431\u043b\u044f\u0442\u044c",
+    "description": "Minted NFT Color.",
+    "image": "https://raw.githubusercontent.com/tontertainment-development/ton-colors-images/refs/heads/main/colors/961CAA.png",
+    "attributes": [
+        {
+            "trait_type": "HEX",
+            "value": "#961CAA"
+        },
+        {
+            "trait_type": "RGB",
+            "value": "150 28 170"
+        },
+        {
+            "trait_type": "Name",
+            "value": "\u0441\u0443\u043a\u0430 \u0441\u0443\u043a\u0430 \u0441\u0443\u043a\u0430 \u0431\u043b\u044f\u0442\u044c"
+        },
+        {
+            "trait_type": "Author",
+            "value": "youtya (@youtyay), ID: 1325937002"
+        }
+    ],
+    "buttons": [
+        {
+            "label": "Mint your own color",
+            "uri": "https://t.me/ton_colors_bot"
+        }
+    ],
+    "marketplace": "testnet.getgems.io"
+}
