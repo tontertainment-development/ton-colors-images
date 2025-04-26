@@ -1,0 +1,26 @@
+{
+    "name": "#1C305C",
+    "description": "Minted NFT Color.",
+    "image": "https://raw.githubusercontent.com/tontertainment-development/ton-colors-images/refs/heads/main/colors/1C305C.png",
+    "attributes": [
+        {
+            "trait_type": "HEX",
+            "value": "#1C305C"
+        },
+        {
+            "trait_type": "RGB",
+            "value": "28 48 92"
+        },
+        {
+            "trait_type": "Author",
+            "value": "youtya (@youtyay), ID: 1325937002"
+        }
+    ],
+    "buttons": [
+        {
+            "label": "Mint your own color",
+            "uri": "https://t.me/ton_colors_bot"
+        }
+    ],
+    "marketplace": "testnet.getgems.io"
+}
