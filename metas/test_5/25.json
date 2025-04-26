@@ -1,0 +1,30 @@
+{
+    "name": "#0B0B0B: \u0413\u043e\u0439\u0434\u0430",
+    "description": "Minted NFT Color.",
+    "image": "https://raw.githubusercontent.com/tontertainment-development/ton-colors-images/refs/heads/main/colors/0B0B0B.png",
+    "attributes": [
+        {
+            "trait_type": "HEX",
+            "value": "#0B0B0B"
+        },
+        {
+            "trait_type": "RGB",
+            "value": "11 11 11"
+        },
+        {
+            "trait_type": "Name",
+            "value": "\u0413\u043e\u0439\u0434\u0430"
+        },
+        {
+            "trait_type": "Author",
+            "value": "timalex_ (@timale_x), ID: 1387257247"
+        }
+    ],
+    "buttons": [
+        {
+            "label": "Mint your own color",
+            "uri": "https://t.me/ton_colors_bot"
+        }
+    ],
+    "marketplace": "testnet.getgems.io"
+}
