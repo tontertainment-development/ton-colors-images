@@ -1,0 +1,26 @@
+{
+    "name": "#0038B8: \u0413\u0435\u043d\u043e\u0446\u0438\u0434 \u0435\u0432\u0440\u0435\u0435\u0432",
+    "description": "Minted NFT Color.",
+    "image": "https://raw.githubusercontent.com/tontertainment-development/ton-colors-images/refs/heads/main/colors/0038B8.png",
+    "attributes": [
+        {
+            "trait_type": "HEX",
+            "value": "#0038B8"
+        },
+        {
+            "trait_type": "RGB",
+            "value": "0 56 184"
+        },
+        {
+            "trait_type": "Name",
+            "value": "\u0413\u0435\u043d\u043e\u0446\u0438\u0434 \u0435\u0432\u0440\u0435\u0435\u0432"
+        }
+    ],
+    "buttons": [
+        {
+            "label": "Mint your own color",
+            "uri": "https://t.me/ton_colors_bot"
+        }
+    ],
+    "marketplace": "testnet.getgems.io"
+}
