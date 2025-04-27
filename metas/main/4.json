@@ -1,0 +1,30 @@
+{
+    "name": "#FFFFFF: WHITE",
+    "description": "Minted NFT Color.",
+    "image": "https://raw.githubusercontent.com/tontertainment-development/ton-colors-images/refs/heads/main/colors/FFFFFF.png",
+    "attributes": [
+        {
+            "trait_type": "HEX",
+            "value": "#FFFFFF"
+        },
+        {
+            "trait_type": "RGB",
+            "value": "255 255 255"
+        },
+        {
+            "trait_type": "Name",
+            "value": "WHITE"
+        },
+        {
+            "trait_type": "Author",
+            "value": "timalex_ (@timale_x), ID: 1387257247"
+        }
+    ],
+    "buttons": [
+        {
+            "label": "Mint your own color",
+            "uri": "https://t.me/ton_colors_bot"
+        }
+    ],
+    "marketplace": "getgems.io"
+}
