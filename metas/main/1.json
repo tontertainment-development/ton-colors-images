@@ -1,0 +1,22 @@
+{
+    "name": "#EEE621",
+    "description": "Minted NFT Color.",
+    "image": "https://raw.githubusercontent.com/tontertainment-development/ton-colors-images/refs/heads/main/colors/EEE621.png",
+    "attributes": [
+        {
+            "trait_type": "HEX",
+            "value": "#EEE621"
+        },
+        {
+            "trait_type": "RGB",
+            "value": "238 230 33"
+        }
+    ],
+    "buttons": [
+        {
+            "label": "Mint your own color",
+            "uri": "https://t.me/ton_colors_bot"
+        }
+    ],
+    "marketplace": "getgems.io"
+}
