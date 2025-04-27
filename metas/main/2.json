@@ -1,0 +1,22 @@
+{
+    "name": "#2D5461",
+    "description": "Minted NFT Color.",
+    "image": "https://raw.githubusercontent.com/tontertainment-development/ton-colors-images/refs/heads/main/colors/2D5461.png",
+    "attributes": [
+        {
+            "trait_type": "HEX",
+            "value": "#2D5461"
+        },
+        {
+            "trait_type": "RGB",
+            "value": "45 84 97"
+        }
+    ],
+    "buttons": [
+        {
+            "label": "Mint your own color",
+            "uri": "https://t.me/ton_colors_bot"
+        }
+    ],
+    "marketplace": "getgems.io"
+}
