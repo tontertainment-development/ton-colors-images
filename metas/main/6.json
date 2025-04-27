@@ -1,0 +1,30 @@
+{
+    "name": "#ABCDEF: I didn't really care about name and color itself, so I decided to write something here. Anyways, how's your day? Ugh. How about some random text, like... \nWe're no strangers to love \nYou know the rules and so do I \nA full commitment's what I'm thinking of \nYou wouldn't get this from any other guy \nI just wanna tell you how I'm feeling \nGotta make you understand \nNever gonna give you up \nNever gonna let you down \nNever gonna run around and desert you \nNever gonna make you cry \nNever gonna say goodbye \nNever gonna tell a lie and hurt you \nWe've known each other for so long \nYour heart's been aching but you're too shy to say it \nInside we both know what's been going on \nWe know the game and we're gonna play it \nAnd if you ask me how I'm feeling \nDon't tell me you're too blind to see \nNever gonna give you up \nNever gonna let you down \nNever gonna run around and desert you \nNever gonna make you cry \nNever gonna say goodbye \nNever gonna tell a lie and hurt you \nNever gonna give you up \nNever gonna let you down \nNever gonna run around and desert you \nNever gonna make you cry \nNever gonna say goodbye \nNever gonna tell a lie and hurt you \nNever gonna give, never gonna give \n(Give you up) \n(Ooh) Never gonna give, never gonna give \n(Give you up) \nWe've known each other for so long \nYour heart's been aching but you're too shy to say it \nInside we both know what's been going on \nWe know the game and we're gonna play it \nI just wanna tell you how I'm feeling \nGotta make you understand \nNever gonna give you up \nNever gonna let you down \nNever gonna run around and desert you \nNever gonna make you cry \nNever gonna say goodbye \nNever gonna tell a lie and hurt you \nNever gonna give you up \nNever gonna let you down \nNever gonna run around and desert you\nNever gonna make you cry \nNever gonna say goodbye \nNever gonna tell a lie and hurt you\n\nSounds good, isn't it? Beautiful song I think!",
+    "description": "Minted NFT Color.",
+    "image": "https://raw.githubusercontent.com/tontertainment-development/ton-colors-images/refs/heads/main/colors/ABCDEF.png",
+    "attributes": [
+        {
+            "trait_type": "HEX",
+            "value": "#ABCDEF"
+        },
+        {
+            "trait_type": "RGB",
+            "value": "171 205 239"
+        },
+        {
+            "trait_type": "Name",
+            "value": "I didn't really care about name and color itself, so I decided to write something here. Anyways, how's your day? Ugh. How about some random text, like... \nWe're no strangers to love \nYou know the rules and so do I \nA full commitment's what I'm thinking of \nYou wouldn't get this from any other guy \nI just wanna tell you how I'm feeling \nGotta make you understand \nNever gonna give you up \nNever gonna let you down \nNever gonna run around and desert you \nNever gonna make you cry \nNever gonna say goodbye \nNever gonna tell a lie and hurt you \nWe've known each other for so long \nYour heart's been aching but you're too shy to say it \nInside we both know what's been going on \nWe know the game and we're gonna play it \nAnd if you ask me how I'm feeling \nDon't tell me you're too blind to see \nNever gonna give you up \nNever gonna let you down \nNever gonna run around and desert you \nNever gonna make you cry \nNever gonna say goodbye \nNever gonna tell a lie and hurt you \nNever gonna give you up \nNever gonna let you down \nNever gonna run around and desert you \nNever gonna make you cry \nNever gonna say goodbye \nNever gonna tell a lie and hurt you \nNever gonna give, never gonna give \n(Give you up) \n(Ooh) Never gonna give, never gonna give \n(Give you up) \nWe've known each other for so long \nYour heart's been aching but you're too shy to say it \nInside we both know what's been going on \nWe know the game and we're gonna play it \nI just wanna tell you how I'm feeling \nGotta make you understand \nNever gonna give you up \nNever gonna let you down \nNever gonna run around and desert you \nNever gonna make you cry \nNever gonna say goodbye \nNever gonna tell a lie and hurt you \nNever gonna give you up \nNever gonna let you down \nNever gonna run around and desert you\nNever gonna make you cry \nNever gonna say goodbye \nNever gonna tell a lie and hurt you\n\nSounds good, isn't it? Beautiful song I think!"
+        },
+        {
+            "trait_type": "Author",
+            "value": "youtya (@youtyay), ID: 1325937002"
+        }
+    ],
+    "buttons": [
+        {
+            "label": "Mint your own color",
+            "uri": "https://t.me/ton_colors_bot"
+        }
+    ],
+    "marketplace": "getgems.io"
+}
