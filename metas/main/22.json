@@ -1,0 +1,30 @@
+{
+    "name": "#554433: testy!",
+    "description": "Minted NFT Color.",
+    "image": "https://raw.githubusercontent.com/tontertainment-development/ton-colors-images/refs/heads/main/colors/554433.png",
+    "attributes": [
+        {
+            "trait_type": "HEX",
+            "value": "#554433"
+        },
+        {
+            "trait_type": "RGB",
+            "value": "85 68 51"
+        },
+        {
+            "trait_type": "Name",
+            "value": "testy!"
+        },
+        {
+            "trait_type": "Author",
+            "value": "youtya (@youtyay), ID: 1325937002"
+        }
+    ],
+    "buttons": [
+        {
+            "label": "Mint your own color",
+            "uri": "https://t.me/ton_colors_bot"
+        }
+    ],
+    "marketplace": "getgems.io"
+}
