@@ -1,0 +1,30 @@
+{
+    "name": "#000000: A black hole isn\u2019t even as black as this NFT",
+    "description": "Minted NFT Color.",
+    "image": "https://raw.githubusercontent.com/tontertainment-development/ton-colors-images/refs/heads/main/colors/000000.png",
+    "attributes": [
+        {
+            "trait_type": "HEX",
+            "value": "#000000"
+        },
+        {
+            "trait_type": "RGB",
+            "value": "0 0 0"
+        },
+        {
+            "trait_type": "Name",
+            "value": "A black hole isn\u2019t even as black as this NFT"
+        },
+        {
+            "trait_type": "Author",
+            "value": "\u041f\u0430\u0432\u0435\u043b, ID: 519952857"
+        }
+    ],
+    "buttons": [
+        {
+            "label": "Mint your own color",
+            "uri": "https://t.me/ton_colors_bot"
+        }
+    ],
+    "marketplace": "getgems.io"
+}
