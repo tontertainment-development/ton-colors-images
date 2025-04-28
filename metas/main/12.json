@@ -1,0 +1,26 @@
+{
+    "name": "#1D4B67",
+    "description": "Minted NFT Color.",
+    "image": "https://raw.githubusercontent.com/tontertainment-development/ton-colors-images/refs/heads/main/colors/1D4B67.png",
+    "attributes": [
+        {
+            "trait_type": "HEX",
+            "value": "#1D4B67"
+        },
+        {
+            "trait_type": "RGB",
+            "value": "29 75 103"
+        },
+        {
+            "trait_type": "Author",
+            "value": "tontertainment | support (@tontertainment_support), ID: 6102507924"
+        }
+    ],
+    "buttons": [
+        {
+            "label": "Mint your own color",
+            "uri": "https://t.me/ton_colors_bot"
+        }
+    ],
+    "marketplace": "getgems.io"
+}
