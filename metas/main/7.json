@@ -1,0 +1,30 @@
+{
+    "name": "#FF0000: Io sonno rosso",
+    "description": "Minted NFT Color.",
+    "image": "https://raw.githubusercontent.com/tontertainment-development/ton-colors-images/refs/heads/main/colors/FF0000.png",
+    "attributes": [
+        {
+            "trait_type": "HEX",
+            "value": "#FF0000"
+        },
+        {
+            "trait_type": "RGB",
+            "value": "255 0 0"
+        },
+        {
+            "trait_type": "Name",
+            "value": "Io sonno rosso"
+        },
+        {
+            "trait_type": "Author",
+            "value": "\u041f\u0430\u0432\u0435\u043b, ID: 519952857"
+        }
+    ],
+    "buttons": [
+        {
+            "label": "Mint your own color",
+            "uri": "https://t.me/ton_colors_bot"
+        }
+    ],
+    "marketplace": "getgems.io"
+}
