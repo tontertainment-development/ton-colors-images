@@ -1,0 +1,12 @@
+{
+    "name": "An error NFT",
+    "description": "An error happened, so you can burn this NFT.",
+    "image": "https://raw.githubusercontent.com/tontertainment-development/ton-colors-images/refs/heads/main/colors/error.png",
+    "buttons": [
+        {
+            "label": "Mint your own color",
+            "uri": "https://t.me/ton_colors_bot"
+        }
+    ],
+    "marketplace": "getgems.io"
+}
