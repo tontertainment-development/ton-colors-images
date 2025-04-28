@@ -1,0 +1,26 @@
+{
+    "name": "#278B44: a",
+    "description": "Minted NFT Color.",
+    "image": "https://raw.githubusercontent.com/tontertainment-development/ton-colors-images/refs/heads/main/colors/278B44.png",
+    "attributes": [
+        {
+            "trait_type": "HEX",
+            "value": "#278B44"
+        },
+        {
+            "trait_type": "RGB",
+            "value": "39 139 68"
+        },
+        {
+            "trait_type": "Name",
+            "value": "a"
+        }
+    ],
+    "buttons": [
+        {
+            "label": "Mint your own color",
+            "uri": "https://t.me/ton_colors_bot"
+        }
+    ],
+    "marketplace": "getgems.io"
+}
