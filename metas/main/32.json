@@ -1,0 +1,26 @@
+{
+    "name": "#000001",
+    "description": "Minted NFT Color.",
+    "image": "https://raw.githubusercontent.com/tontertainment-development/ton-colors-images/refs/heads/main/colors/000001.png",
+    "attributes": [
+        {
+            "trait_type": "HEX",
+            "value": "#000001"
+        },
+        {
+            "trait_type": "RGB",
+            "value": "0 0 1"
+        },
+        {
+            "trait_type": "Author",
+            "value": "Boston (@boston_168), ID: 231443837"
+        }
+    ],
+    "buttons": [
+        {
+            "label": "Mint your own color",
+            "uri": "https://t.me/ton_colors_bot"
+        }
+    ],
+    "marketplace": "getgems.io"
+}
