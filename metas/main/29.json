@@ -1,0 +1,26 @@
+{
+    "name": "#12345C: aaa",
+    "description": "Minted NFT Color.",
+    "image": "https://raw.githubusercontent.com/tontertainment-development/ton-colors-images/refs/heads/main/colors/12345C.png",
+    "attributes": [
+        {
+            "trait_type": "HEX",
+            "value": "#12345C"
+        },
+        {
+            "trait_type": "RGB",
+            "value": "18 52 92"
+        },
+        {
+            "trait_type": "Name",
+            "value": "aaa"
+        }
+    ],
+    "buttons": [
+        {
+            "label": "Mint your own color",
+            "uri": "https://t.me/ton_colors_bot"
+        }
+    ],
+    "marketplace": "getgems.io"
+}
