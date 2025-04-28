@@ -1,0 +1,26 @@
+{
+    "name": "#1C5FBE: A",
+    "description": "Minted NFT Color.",
+    "image": "https://raw.githubusercontent.com/tontertainment-development/ton-colors-images/refs/heads/main/colors/1C5FBE.png",
+    "attributes": [
+        {
+            "trait_type": "HEX",
+            "value": "#1C5FBE"
+        },
+        {
+            "trait_type": "RGB",
+            "value": "28 95 190"
+        },
+        {
+            "trait_type": "Name",
+            "value": "A"
+        }
+    ],
+    "buttons": [
+        {
+            "label": "Mint your own color",
+            "uri": "https://t.me/ton_colors_bot"
+        }
+    ],
+    "marketplace": "getgems.io"
+}
