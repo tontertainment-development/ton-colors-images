@@ -1,0 +1,22 @@
+{
+    "name": "#195DEF",
+    "description": "Minted NFT Color.",
+    "image": "https://raw.githubusercontent.com/tontertainment-development/ton-colors-images/refs/heads/main/colors/195DEF.png",
+    "attributes": [
+        {
+            "trait_type": "HEX",
+            "value": "#195DEF"
+        },
+        {
+            "trait_type": "RGB",
+            "value": "25 93 239"
+        }
+    ],
+    "buttons": [
+        {
+            "label": "Mint your own color",
+            "uri": "https://t.me/ton_colors_bot"
+        }
+    ],
+    "marketplace": "getgems.io"
+}
