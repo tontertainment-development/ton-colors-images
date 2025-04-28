@@ -1,0 +1,30 @@
+{
+    "name": "#0000FF: I'm blue \nDa ba dee da ba di",
+    "description": "Minted NFT Color.",
+    "image": "https://raw.githubusercontent.com/tontertainment-development/ton-colors-images/refs/heads/main/colors/0000FF.png",
+    "attributes": [
+        {
+            "trait_type": "HEX",
+            "value": "#0000FF"
+        },
+        {
+            "trait_type": "RGB",
+            "value": "0 0 255"
+        },
+        {
+            "trait_type": "Name",
+            "value": "I'm blue \nDa ba dee da ba di"
+        },
+        {
+            "trait_type": "Author",
+            "value": "\u041f\u0430\u0432\u0435\u043b, ID: 519952857"
+        }
+    ],
+    "buttons": [
+        {
+            "label": "Mint your own color",
+            "uri": "https://t.me/ton_colors_bot"
+        }
+    ],
+    "marketplace": "getgems.io"
+}
