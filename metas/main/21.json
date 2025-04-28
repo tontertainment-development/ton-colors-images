@@ -1,0 +1,22 @@
+{
+    "name": "#5D5145",
+    "description": "Minted NFT Color.",
+    "image": "https://raw.githubusercontent.com/tontertainment-development/ton-colors-images/refs/heads/main/colors/5D5145.png",
+    "attributes": [
+        {
+            "trait_type": "HEX",
+            "value": "#5D5145"
+        },
+        {
+            "trait_type": "RGB",
+            "value": "93 81 69"
+        }
+    ],
+    "buttons": [
+        {
+            "label": "Mint your own color",
+            "uri": "https://t.me/ton_colors_bot"
+        }
+    ],
+    "marketplace": "getgems.io"
+}
